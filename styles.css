@@ -1,6 +1,6 @@
 /* your code here */
 #container{
-    width: 100%;
+    width: 50%%;
     height:350px;
     background-color:#000000 ;
     color: white;
@@ -19,7 +19,7 @@ img{
     height: 50px;
     border-radius: 50%;
     position: relative;
-    left:1150px;
+    left:310px;
  bottom: 40px;
     
 }
